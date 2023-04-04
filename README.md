@@ -9,3 +9,9 @@ Tujuannya adalah untuk memperoleh opini dari pengguna yang terdapat pada platfor
 
 - Sumber Data: Twitter di crawling oleh https://github.com/MrWaradana
 - Bentuk dataset: (1066 rows, 3 columns)
+
+Metode Klasifikasi:
+- clf1 = RandomForestClassifier()
+- clf2 = LogisticRegression()
+- clf3 = BernoulliNB()
+- clf4 = SVC()
